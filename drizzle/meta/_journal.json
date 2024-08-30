@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1723781367272,
+      "tag": "0000_peaceful_salo",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1723781976088,
+      "tag": "0001_omniscient_zaladane",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1723884043361,
+      "tag": "0002_short_blindfold",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1723946882991,
+      "tag": "0003_long_odin",
+      "breakpoints": true
+    }
+  ]
+}
